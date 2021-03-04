@@ -37,7 +37,7 @@ const Footer = () => {
         </FooterSubHeading>
         <FooterSubText>You can unsubscribe at any time</FooterSubText>
         <Form>
-          <FormInput nam="email" type="email" placeholder="Your email" />
+          <FormInput name="email" type="email" placeholder="Your email" />
           <Button fontBig>Subscribe</Button>
         </Form>
       </FooterSubscirption>
