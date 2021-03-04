@@ -16,6 +16,7 @@ export const FooterSubscirption = styled.section`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align:center;
   margin-bottom: 24px;
   padding: 24px;
   color: #fff;
