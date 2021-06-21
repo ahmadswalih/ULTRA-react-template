@@ -85,7 +85,7 @@ const Footer = () => {
             <SocialIcon />
             ULTRA
           </SocialLogo>
-          <WebsiteRights>ULTRA © 2020</WebsiteRights>
+          <WebsiteRights>Ahmad Swalih © 2021</WebsiteRights>
           <SocilaIcons>
             <SocialIconLink href="/" traget="_blank" aria-label="Facebook">
               <FaFacebook />
