@@ -15,7 +15,7 @@ A Portfolio Project in Reactjs .
 - Routing through React-Router-Dom
 - Designed in # REACT STYLED COMPONENTS
 
-## Feel free to add your contribution
+### Feel free to add your contribution
 
-# The application is full made with Reactjs
+### The application is full made with Reactjs
 
