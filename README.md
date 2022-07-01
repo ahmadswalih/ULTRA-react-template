@@ -8,9 +8,21 @@
 
 > A Portfolio Project in Reactjs . 
 
+## Features
+- Responsive Design
+- Modern Designs
+- Fontawesome Icons
+- pricing Cards
+- Awesome Footers and Headers
+- Amazing Color Schema
+- Routing through React-Router-Dom
+- Designed Using React-Styled-Component
+
+## ✨ [Demo](https://swalih-proj.netlify.app/)
+
 ### 🏠 [Homepage](src/App.js)
 
-### ✨ [Demo](https://swalih-proj.netlify.app/)
+
 
 ## Install
 
